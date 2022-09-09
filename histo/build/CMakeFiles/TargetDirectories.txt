@@ -1,0 +1,3 @@
+/home/tannus/repos/applies/ltrace/slicer-histo/slicer-histo/histo/build/CMakeFiles/rebuild_cache.dir
+/home/tannus/repos/applies/ltrace/slicer-histo/slicer-histo/histo/build/CMakeFiles/edit_cache.dir
+/home/tannus/repos/applies/ltrace/slicer-histo/slicer-histo/histo/build/CMakeFiles/text_histo.dir

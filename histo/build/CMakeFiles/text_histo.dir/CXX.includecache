@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tannus/repos/applies/ltrace/slicer-histo/slicer-histo/histo/histo.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+algorithm
+-
+unordered_map
+-
+
